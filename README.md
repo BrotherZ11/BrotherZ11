@@ -12,7 +12,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+  <img  src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
        alt="snake" /></a>
 </div>
 
@@ -22,7 +22,7 @@
 
 🎓 &nbsp;I'm currently studying Software Engineering at the University of Malaga and volunteer at Hackers Week.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and I learn quickly.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Cybersegurity, and Full Stack.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Cybersecurity, and Full Stack.\
 ✍️ &nbsp;In my free time, I pursue Video Game Development and Making Music as hobbies.\
 💬 &nbsp;I am open to chat about any project.\
 ✉️ &nbsp;You can shoot me an email at dzarzavillaborrego@gmail.com. I'll try to respond as soon as I can.\
